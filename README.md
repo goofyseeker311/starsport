@@ -1,2 +1,2 @@
-# starsport
-source port project of stars! version 2.6i
+# Starsport
+Source port project of Stars! version 2.6i.
